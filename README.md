@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Power BI
 - 👯 I’m looking to collaborate on data science enthusiasists
 
+  ### Other ways to contact me
+
 <!--
 **Elispreng/Elispreng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
