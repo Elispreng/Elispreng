@@ -1,5 +1,8 @@
 
 ## Summary
+
+I am dynamic and articulate data scientist with significant experience in big data and qualitative methods for over 15 years.  My professional path is a unexpected journey of coming full circle because of early intererest in data analysis that primarily focused on people and language. Now I can bring those skills togeher with a growing  understanding of the tech applications. 
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on updating my coding projects
@@ -8,7 +11,6 @@
 - 📫 How to reach me: ...ElizabethSpreng@EliDataAnalytics.onmicrosoft.com
 
 
-  ### Other ways to contact me
 
 <!--
 **Elispreng/Elispreng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
