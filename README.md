@@ -1,8 +1,12 @@
+
+## Summary
 ### Hi there 👋
 
-- 🔭 I’m currently working on uodating my coding projects
+- 🔭 I’m currently working on updating my coding projects
 - 🌱 I’m currently learning Power BI
 - 👯 I’m looking to collaborate on data science enthusiasists
+- 📫 How to reach me: ...
+
 
   ### Other ways to contact me
 
