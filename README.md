@@ -9,6 +9,7 @@ I am dynamic and articulate data scientist with significant experience in big da
       - Machine Learning
       - Local and  Global Explanations with SHAP and Lime
  3. Movies 
+    -  API data extraction
     -  More data exploration
     -  Prep for Tableau and Power BI
 4. Chicago Crime Model
