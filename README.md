@@ -4,14 +4,17 @@
 I am dynamic and articulate data scientist with significant experience in big data and qualitative methods for over 15 years.  My professional path is a unexpected journey of coming full circle because of early intererest in data analysis. This research primarily focused on people and language.  I realized how momentous it is to combine big data with real human insights. Now I  see exciting ways to bring those  human skills together with a growing  understanding of the tech applications. 
 
 ## Contributions 🙌
- 1. Grocery Sales Repository with Tableau Dashboard and coefficients
- 2. Movies 
-    - a. More data exploration
-    - b. Prep for Tableau and Power BI
-3. Chicago Crime Model
-     - a. Rebuilding repository
-      - b. More data exploration
-4. Census Model (under construction)
+ 1. Grocery Sales Repository 
+      - Tableau Dashboard
+      - Machine Learning
+      - Local and  Global Explanations with SHAP and Lime
+ 3. Movies 
+    -  More data exploration
+    -  Prep for Tableau and Power BI
+4. Chicago Crime Model
+     - Rebuilding repository
+      -  More data exploration
+5. Census Model (under construction)
 
 
 
