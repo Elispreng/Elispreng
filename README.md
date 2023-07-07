@@ -9,8 +9,8 @@ I am dynamic and articulate data scientist with significant experience in big da
     - a. More data exploration
     - b. Prep for Tableau and Power BI
 3. Chicago Crime Model
-   a. Rebuilding repository
-   b. More data exploration
+     - a. Rebuilding repository
+      - b. More data exploration
 4. Census Model (under construction)
 
 
