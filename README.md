@@ -6,8 +6,8 @@ I am dynamic and articulate data scientist with significant experience in big da
 ## Contributions 🙌
  1. Grocery Sales Repository with Tableau Dashboard and coefficients
  2. Movies 
-   - a. More data exploration
-   - b. Prep for Tableau and Power BI
+    - a. More data exploration
+    - b. Prep for Tableau and Power BI
 3. Chicago Crime Model
    a. Rebuilding repository
    b. More data exploration
