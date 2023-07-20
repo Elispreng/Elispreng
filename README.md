@@ -15,6 +15,7 @@ I am dynamic and articulate data scientist with significant experience in big da
 4. Chicago Crime Model
      - Rebuilding repository
       -  More data exploration
+      -  Dashboad and Power BI
 5. Census Model (under construction)
 
 
@@ -25,9 +26,9 @@ I am dynamic and articulate data scientist with significant experience in big da
 
 - 🔭 I’m currently working on updating my coding projects
 - 🌱 I’m currently learning Power BI
-- 👯 I’m looking to collaborate on data science enthusiasists
+- 👯 I’m looking to collaborate on data science enthusiasists and maybe creating a fun dataset (maybe ice cream) using API
 - 📫 How to reach me: ...ElizabethSpreng@EliDataAnalytics.onmicrosoft.com
-
+- ⚡ Fun fact: ...I  am upside down every day and it's a yoga thing.
 
 
 <!--
