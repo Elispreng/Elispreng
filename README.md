@@ -17,6 +17,8 @@ I am dynamic and articulate data scientist with significant experience in big da
       -  More data exploration
       -  Dashboad and Power BI
 5. Census Model (under construction)
+      - Machine Learning
+      - Seaborn Visuals
 
 
 
