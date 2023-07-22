@@ -10,7 +10,7 @@ I am dynamic and articulate data scientist with significant experience in big da
       - Local and  Global Explanations with SHAP and Lime
  3. Movies 
     -  API data extraction
-    -  More data exploration
+    -  More data exploration using revenue, movie titles, and people
     -  Prep for Tableau and Power BI
 4. Chicago Crime Model
      - Rebuilding repository
