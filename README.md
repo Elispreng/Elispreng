@@ -4,7 +4,7 @@
 I am dynamic and articulate data scientist with significant experience in big data and qualitative methods for over 15 years.  My professional path is a unexpected journey of coming full circle because of early intererest in data analysis. This research primarily focused on people and language.  I realized how momentous it is to combine big data with real human insights. Now I  see exciting ways to bring those  human insights together with a growing understanding of tech applications. 
 
 ## Contributions 🙌
- 1. Grocery Sales Repository 
+ 1. Grocery Sales 
       - Tableau Dashboard
       - Machine Learning
       - Local and  Global Explanations with SHAP and Lime
