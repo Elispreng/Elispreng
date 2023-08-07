@@ -11,7 +11,7 @@ I am dynamic and articulate data scientist with significant experience in big da
  3. Movies 
     -  API data extraction
     -  More data exploration using revenue, movie titles, and people
-    -  Tableau with two Dashboards
+    -  Tableau with two Dashboards and user oriented visual
     -   Power BI (working)
 4. Chicago Crime Model
      - Rebuilt Dojo repository
