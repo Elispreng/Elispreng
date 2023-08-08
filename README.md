@@ -5,7 +5,7 @@ I am dynamic and articulate data scientist with significant experience in big da
 
 ## Contributions 🙌
  1. Grocery Sales 
-      - Tableau Dashboard
+      - Tableau Dashboard with Data Guide
       - Machine Learning
       - Local and  Global Explanations with SHAP and Lime
  3. Movies 
