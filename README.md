@@ -12,7 +12,7 @@ I am dynamic and articulate data scientist with significant experience in big da
     -  API data extraction
     -  More data exploration using revenue, movie titles, and people
     -  Created 9 SQL tables
-    -  Tableau with two Dashboards and user oriented visual
+    -  Tableau with two Dashboards and dynamic  visuals
     -   Power BI (working)
 4. Chicago Crime Model
       -   ETL of 20+ years of data
