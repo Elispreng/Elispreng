@@ -22,7 +22,7 @@ I am dynamic and articulate data scientist with significant experience in big da
 5. Census Model (under construction)
       - Machine Learning
       - Seaborn Visuals
-      - Tableau (working)
+      - Tableau  with 2 Dashboards (working)
 
 
 
