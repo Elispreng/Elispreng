@@ -1,7 +1,7 @@
 
 ## Summary
 
-I am dynamic and articulate data scientist with significant experience in big data and qualitative methods for over 15 years.  My professional path is a unexpected journey of coming full circle because of early intererest in data analysis and decision science. My doctoral  research primarily focused on people and language.  I realized how momentous it is to combine big data with real human insights. Now I  am excited to ring those  human insights together with a growing understanding of tech applications. 
+I am dynamic and articulate data scientist with significant experience in big data and qualitative methods for over 15 years.  My professional path is a unexpected journey of coming full circle because of early intererest in data analysis and decision science. My doctoral research primarily focused on people and language using both human stories and coded linguistic data.  I realized how momentous it is to combine big data with real human insights. Now I  am excited to ring those  human insights together with a growing understanding of tech applications. 
 
 ## Contributions 🙌
  1. Grocery Sales 
