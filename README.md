@@ -24,8 +24,9 @@ I am dynamic and articulate data scientist with significant experience in big da
       - Seaborn Visuals
       - Tableau  with 2 Dashboards (working)
 
-
-
+## Tech Education 🙌
+1. Completed Coding Dojo Bootcamp in Data Analytics (May 2023)
+2. Enrolled in Data Science Certificate Programn (Fall 2023)
 
 
 ### Hi there again 👋
